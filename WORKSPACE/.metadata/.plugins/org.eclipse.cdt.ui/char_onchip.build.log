@@ -1,6 +1,0 @@
-17:10:09 **** Clean-only build of configuration Nios II for project char_onchip ****
-make clean 
-[char_onchip clean complete]
-
-17:10:10 Build Finished (took 250ms)
-
